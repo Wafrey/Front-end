@@ -1,0 +1,5 @@
+#one{list-style-type: circle;}
+#two{list-style-type: disc;}
+.arab{list-style-type: arabic-numbers;}
+.lower{list-style-type: lower-alpha;}
+.rimski{list-style-type:upper-roman;}

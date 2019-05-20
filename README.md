@@ -4,7 +4,7 @@
 
 
 # HTML & CSS - (From 14 May. to 7 Jul. 2019)
-1. [INTRODUCTION TO HTML & CSS]
+1. [INTRODUCTION TO HTML & CSS](https://tinyurl.com/y24lrcdq)
 2. [HTML STRUCTURE]
 
 # CSS Advanced - (From 9 Jul. to 11 Aug. 2019)

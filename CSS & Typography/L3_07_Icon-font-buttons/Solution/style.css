@@ -1,0 +1,17 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.8.2/css/all.min.css");
+
+p>a {
+    border: 1px;
+    padding: 5px;
+    margin: 10px;
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+}
+
+body>p:nth-child(1)>a {
+    background: rgb(0, 128, 0);
+}
+
+body>p:nth-child(2)>a {
+    background: rgb(255, 140, 0);
+}

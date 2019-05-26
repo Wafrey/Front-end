@@ -1,0 +1,44 @@
+html {
+
+    font-family: Raleway, sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+body h2 {
+
+    font-family: Great Vibes, cursive;
+    font-size: 1em;
+    line-height: 1.2;
+    font-weight: bold;
+
+}
+
+h2 {
+
+    font-family: Great Vibes, cursive;
+    font-size: 1em;
+    line-height: 1.2;
+    font-weight: bold;
+
+}
+
+h1{
+
+    font-family: Great Vibes, cursive;
+    font-size: 1em;
+    line-height: 1.2;
+    font-weight: bold;
+}
+
+
+
+ul {
+
+    list-style-type: square;
+}
+
+.circle{
+
+    list-style-type: circle;
+}

@@ -8,5 +8,6 @@
 2. [HTML STRUCTURE](https://tinyurl.com/yy7yx8l3)
 3. [CSS & Typography](https://tinyurl.com/yyfrtt22)
 4. [CSS BOX MODEL]
+5. [POSITION & FLOAT]
 
 # CSS Advanced - (From 9 Jul. to 11 Aug. 2019)

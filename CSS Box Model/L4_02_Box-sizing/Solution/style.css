@@ -1,0 +1,24 @@
+html {
+    box-sizing: inherit;
+}
+
+section {
+    margin: 0 auto;
+    width: 250px;
+    height: 240px;
+    border: 5px dashed rgb(90, 215, 163);
+    border-collapse: collapse;
+}
+
+
+h1, p {
+    text-align: center;
+}
+
+p {
+    box-sizing: border-box;
+    width: 100%;
+    height: auto;
+    border: 5px solid blue;
+    padding: 20px;
+}

@@ -7,7 +7,7 @@
 1. [INTRODUCTION TO HTML & CSS](https://tinyurl.com/y24lrcdq)
 2. [HTML STRUCTURE](https://tinyurl.com/yy7yx8l3)
 3. [CSS & Typography](https://tinyurl.com/yyfrtt22)
-4. [CSS BOX MODEL]
+4. [CSS BOX MODEL](https://tinyurl.com/y4fkelxv)
 5. [POSITION & FLOAT]
 
 # CSS Advanced - (From 9 Jul. to 11 Aug. 2019)

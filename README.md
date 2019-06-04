@@ -9,5 +9,6 @@
 3. [CSS & Typography](https://tinyurl.com/yyfrtt22)
 4. [CSS BOX MODEL](https://tinyurl.com/y4fkelxv)
 5. [POSITION & FLOAT]
+6. [WORKING WITH FORMS]
 
 # CSS Advanced - (From 9 Jul. to 11 Aug. 2019)

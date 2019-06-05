@@ -10,5 +10,6 @@
 4. [CSS BOX MODEL](https://tinyurl.com/y4fkelxv)
 5. [POSITION & FLOAT]
 6. [WORKING WITH FORMS]
+7. [MEDIA QUERIES]
 
 # CSS Advanced - (From 9 Jul. to 11 Aug. 2019)

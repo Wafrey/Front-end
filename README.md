@@ -8,7 +8,7 @@
 2. [HTML STRUCTURE](https://tinyurl.com/yy7yx8l3)
 3. [CSS & Typography](https://tinyurl.com/yyfrtt22)
 4. [CSS BOX MODEL](https://tinyurl.com/y4fkelxv)
-5. [POSITION & FLOAT]
+5. [POSITION & FLOAT](https://tinyurl.com/y6ylgfug)
 6. [WORKING WITH FORMS]
 7. [MEDIA QUERIES]
 

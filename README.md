@@ -13,3 +13,5 @@
 7. [MEDIA QUERIES]
 
 # CSS Advanced - (From 9 Jul. to 11 Aug. 2019)
+
+1. [FILE ORGANISATION, VERSION CONTROL]

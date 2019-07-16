@@ -9,7 +9,7 @@
 3. [CSS & Typography](https://tinyurl.com/yyfrtt22)
 4. [CSS BOX MODEL](https://tinyurl.com/y4fkelxv)
 5. [POSITION & FLOAT](https://tinyurl.com/y6ylgfug)
-6. [WORKING WITH FORMS]
+6. [WORKING WITH FORMS](https://tinyurl.com/yy7rg5mb)
 7. [MEDIA QUERIES](https://tinyurl.com/y2x2ajpv)
 
 # CSS Advanced - (From 9 Jul. to 11 Aug. 2019)

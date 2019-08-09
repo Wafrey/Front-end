@@ -15,3 +15,4 @@
 # CSS Advanced - (From 9 Jul. to 11 Aug. 2019)
 
 1. [FILE ORGANISATION, VERSION CONTROL](https://tinyurl.com/y4elmujb)
+2. [GRID](https://tinyurl.com/y2ywkkdy)
